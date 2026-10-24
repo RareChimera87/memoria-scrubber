@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Zero-dependency isomorphic local secret scrubber for LLM context & MCP tools (Regex + Luhn + Shannon Entropy)",
   "license": "MIT",
-  "author": "Santiago Reina",
+  "author": "Memoria Labs (RareChimera87)",
   "repository": {
     "type": "git",
     "url": "https://github.com/RareChimera87/memoria-scrubber.git"

@@ -97,4 +97,4 @@ npm test
 
 ## License
 
-MIT © 2026 Santiago Reina
+MIT © 2026 Memoria Labs (RareChimera87)
